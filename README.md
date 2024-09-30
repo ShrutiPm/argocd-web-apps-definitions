@@ -1,0 +1,1 @@
+# argocd-web-apps-definitions
